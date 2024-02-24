@@ -1,0 +1,1 @@
+All the relevant data can be found by following the public one drive link listed at the top of both workbooks 1 and 2. Store the data in the file as it comes and place the downloaded repos in the file along with them. Then use a miniforge terminal to direct to wherever you have stored the data file in your own PC. This should work fine.
